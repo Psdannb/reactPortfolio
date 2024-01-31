@@ -1,7 +1,7 @@
 import React from "react";
 import html from "../assets/html.png";
 import css from "../assets/css.jpg";
-import JavaScript from "../assets/javascript.png";
+import js from "../assets/javaScript.png";
 import react from "../assets/react.png";
 const Portfolio = () => {
   const data = [
@@ -16,7 +16,7 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      src: JavaScript,
+      src: js,
     },
     {
       id: 4,
